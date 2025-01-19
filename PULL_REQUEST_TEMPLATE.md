@@ -8,6 +8,6 @@
 
 <!--  For internal Puffer folks, please tag this PR to an internal user story ID for traceability -->
 
-Fixes AB#
+
 
 #### Additional comments:
